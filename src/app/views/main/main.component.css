@@ -61,3 +61,18 @@
     .column:nth-child(3) {
       background-color: #d9d9d9;
     }
+.content {
+  text-align: center;
+  padding: 20px;
+}
+
+.content h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: #333;
+}
+
+.content p {
+  font-size: 16px;
+  color: #555;
+}
